@@ -1,4 +1,4 @@
-### Hello there, Lucas here! 👋
+### Hello there, Lucas here!
 
 <ul align="left">
 <li>19 anos </li>
@@ -18,7 +18,7 @@ Em 2023 iniciei meus estudos na universidade, tendo como ano de formaão 2026.</
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-<di>
+<p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,visualstudio,mysql,python,java&theme=dark&perline=8" />
@@ -44,7 +44,7 @@ Em 2023 iniciei meus estudos na universidade, tendo como ano de formaão 2026.</
     <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=node.js&logoColor=ED8B00">
   </p>
 </p>
-</di>
+</p>
 
 <br>
 <h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
