@@ -7,9 +7,9 @@
 <br>
 <li>🎓 Bacharel em Engenharia de Software </li><br>
 
-<li>🚀 Sou um profissional que da muito valor ao aprendizado contínuo.
-Estou me forrmando em bacharel em Engenharia de Software e também obtendo certificaões técnicas na Universidade do Contestado em Mafra.
-Em 2023 iniciei meus estudos na universidade, tendo como ano de formaão 2026.</li>
+<li>🚀 Sou um profissional que dá muito valor ao aprendizado contínuo.
+Estou me formando em bacharel em Engenharia de Software e também obtendo certificações técnicas na Universidade do Contestado em Mafra.
+Em 2023 iniciei meus estudos na universidade, tendo como ano de formação 2026.</li>
 <br>
 
 
