@@ -14,8 +14,8 @@ Em 2023 iniciei meus estudos na universidade, tendo como ano de formaão 2026.</
 
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=16&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <di>
