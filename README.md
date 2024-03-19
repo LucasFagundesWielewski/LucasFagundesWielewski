@@ -6,7 +6,6 @@
 <li>📍Mafra - SC</li>
 <br>
 <li>🎓 Bacharelando em Engenharia de Software </li><br>
-<br>
 <li>Tenho interesse em Web development, node.js, Java - back-end</li>
 <br>
 <li>🚀 Sou um profissional que dá muito valor ao aprendizado contínuo.
