@@ -5,7 +5,9 @@
 <br>
 <li>📍Mafra - SC</li>
 <br>
-<li>🎓 Bacharel em Engenharia de Software </li><br>
+<li>🎓 Bacharelando em Engenharia de Software </li><br>
+
+<li>Tenho interesse em Web development, node.js, Java - back-end</li>
 
 <li>🚀 Sou um profissional que dá muito valor ao aprendizado contínuo.
 Estou me formando em bacharel em Engenharia de Software e também obtendo certificações técnicas na Universidade do Contestado em Mafra.
