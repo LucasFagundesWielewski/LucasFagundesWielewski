@@ -31,20 +31,18 @@ Em 2023 iniciei meus estudos na universidade, tendo como ano de formação 2026.
     
     <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
     <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=node.js&logoColor=ED8B00">
-    <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=xamarin&logoColor=white">
-    <img src="https://img.shields.io/badge/Php-0D1117?style=for-the-badge&logo=xamarin&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
-    
 * Front-End Development:    
     
     <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117">
     <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117">
     <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117">
 
-    
 * Back-End Development:    
     <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=node.js&logoColor=ED8B00">
-    <img src="https://img.shields.io/badge/Php-0D1117?style=for-the-badge&logo=xamarin&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   </p>
 </p>
 </p>
