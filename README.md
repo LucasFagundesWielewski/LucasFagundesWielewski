@@ -56,4 +56,4 @@ Em 2023 iniciei meus estudos na universidade, tendo como ano de formação 2026.
 <a href="https://www.linkedin.com/in/lucas-fagundes-779216286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
