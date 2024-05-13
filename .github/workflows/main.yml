@@ -2,5 +2,5 @@ name: Generate Datas
 
 on:
   schedule: 
-    - cron: "* * */12 * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
