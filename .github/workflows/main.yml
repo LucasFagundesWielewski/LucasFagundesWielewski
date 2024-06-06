@@ -1,6 +1,0 @@
-name: Generate Datas
-
-on:
-  schedule: 
-    - cron: "* * */1 * *"
-  workflow_dispatch:
