@@ -22,7 +22,7 @@ Em 2023 iniciei meus estudos na universidade, tendo como ano de formação 2026.
 <p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,visualstudio,mysql,python,java,php,PopSQL&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,mysql,python,java,php,PostgreSQL,PopSQL&theme=dark&perline=8" />
   </a>
 </p>
 
