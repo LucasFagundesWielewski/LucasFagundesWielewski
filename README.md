@@ -13,11 +13,12 @@ Estou me formando em bacharel em Engenharia de Software e também obtendo certif
 Em 2023 iniciei meus estudos na universidade, tendo como ano de formação 2026.</li>
 <br>
 
-
+<br>
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=16&theme=radical"/>
 </div>
+<br>
 
 <p>
 <p align="center">
@@ -25,7 +26,7 @@ Em 2023 iniciei meus estudos na universidade, tendo como ano de formação 2026.
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,mysql,python,java,php,flutter,PostgreSQL,PopSQL&theme=dark&perline=8" />
   </a>
 </p>
-
+<br>
 
 * Languages:
     
