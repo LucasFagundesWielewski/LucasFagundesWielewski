@@ -8,10 +8,14 @@
   <li>🚀 Sou um profissional que dá muito valor ao aprendizado contínuo. Estou me formando em bacharel em Engenharia de Software e também obtendo certificações técnicas na Universidade do Contestado em Mafra. Em 2023 iniciei meus estudos na universidade, tendo como ano de formação 2026.</li>
 </ul>
 
+<br>
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=16&theme=radical"/>
 </div>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
