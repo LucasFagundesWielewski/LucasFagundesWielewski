@@ -36,5 +36,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-<div align="center"><img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"></div>
+<div align="center"><img src="https://64.media.tumblr.com/83f13665c0c4d759baca9dc65e2f99d2/cb4303452469ae13-f8/s2048x3072_c0,35521,100000,67083/1ab4c8746132a48aed5f2e1b5fd291c4e1c03a61.gif"></div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer"/>
