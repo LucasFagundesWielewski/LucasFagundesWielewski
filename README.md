@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2df043b6-062b-4096-acff-3e288b306850)![image](https://github.com/user-attachments/assets/d6786e3f-dbcb-4a39-8250-02b1009d9557)### Hello there, Lucas here!
+### Hello there, Lucas here!
 
 <ul align="left">
   <li>19 anos</li>
