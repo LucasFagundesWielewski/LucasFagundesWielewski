@@ -1,4 +1,4 @@
-### Hello there, Lucas here!
+![image](https://github.com/user-attachments/assets/2df043b6-062b-4096-acff-3e288b306850)![image](https://github.com/user-attachments/assets/d6786e3f-dbcb-4a39-8250-02b1009d9557)### Hello there, Lucas here!
 
 <ul align="left">
   <li>19 anos</li>
@@ -36,5 +36,5 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
+<div align="center"><img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv"></div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer"/>
