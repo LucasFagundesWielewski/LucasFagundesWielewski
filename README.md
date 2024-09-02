@@ -11,9 +11,11 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lucas Fagundes GitHub Stats" style="margin-right: 30px;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=16&theme=radical" alt="Lucas Fagundes Top Languages" style="margin-left: 30px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lucas Fagundes GitHub Stats"/>
+  <span style="display:inline-block; width: 10px;"></span>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=16&theme=radical" alt="Lucas Fagundes Top Languages"/>
 </div>
+
 
 
 <br>
