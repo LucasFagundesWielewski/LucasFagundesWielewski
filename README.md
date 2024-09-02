@@ -12,7 +12,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lucas Fagundes GitHub Stats"/>
-  <span style="display:inline-block; width: 10px;"></span>
+  <span style="display:inline-block; width: 100px;"></span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=16&theme=radical" alt="Lucas Fagundes Top Languages"/>
 </div>
 
