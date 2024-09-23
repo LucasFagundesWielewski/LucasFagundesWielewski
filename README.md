@@ -19,10 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=16&theme=radical" alt="Lucas Fagundes Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LucasFagundesWielewski&theme=radical&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
-
 <br>
 
 <div align="center">
@@ -56,9 +52,5 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke Card" />
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:1f4037,100:000000&height=120&section=footer"/>
