@@ -1,4 +1,4 @@
-### Hello there, Lucas here!
+### 👋 Hello there, Lucas here!
 
 <ul align="left">
   <li>🎉 19 anos</li>
@@ -8,15 +8,20 @@
   <li>🚀 Apaixonado por aprendizado contínuo. Atualmente, estou cursando Engenharia de Software na Universidade do Contestado em Mafra, com previsão de conclusão em 2026.</li>
 </ul>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:1f4037,100:000000&height=180&section=header&text=Bem-vindo!&fontSize=35&fontColor=ffffff" alt="header"/>
+</div>
+
 <br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lucas Fagundes GitHub Stats"/>
-  <span style="display:inline-block; width: 100px;"></span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=16&theme=radical" alt="Lucas Fagundes Top Languages"/>
 </div>
 
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LucasFagundesWielewski&theme=radical&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
 
 <br>
 
@@ -32,6 +37,10 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFagundesWielewski&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Lucas Fagundes GitHub Streak"/>
+</div>
+
 <h3 align="center">:phone: <i>Contato</i> :phone:</h3>
 
 <div align="center">
@@ -45,4 +54,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer"/>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Joke Card" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:1f4037,100:000000&height=120&section=footer"/>
