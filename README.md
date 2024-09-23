@@ -27,15 +27,17 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFagundesWielewski&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Lucas Fagundes GitHub Streak"/>
+</div>
+
+<br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,mysql,python,java,php,flutter,postgresql,popsql&theme=dark&perline=8" alt="Skills"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFagundesWielewski&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Lucas Fagundes GitHub Streak"/>
-</div>
 
 <h3 align="center">:phone: <i>Contato</i> :phone:</h3>
 
