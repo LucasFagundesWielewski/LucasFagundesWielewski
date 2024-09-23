@@ -22,13 +22,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasFagundesWielewski&theme=radical" alt="Lucas Fagundes Profile Summary"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFagundesWielewski&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Lucas Fagundes GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFagundesWielewski&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Lucas Fagundes GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasFagundesWielewski&theme=radical" alt="Lucas Fagundes Profile Summary"/>
 </div>
 
 <br>
