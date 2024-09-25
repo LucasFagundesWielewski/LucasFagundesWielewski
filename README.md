@@ -27,12 +27,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasFagundesWielewski&theme=radical" alt="Lucas Fagundes Profile Summary"/>
-</div>
-
-<br>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,mysql,python,java,php,flutter,postgresql,popsql&theme=dark&perline=8" alt="Skills"/>
