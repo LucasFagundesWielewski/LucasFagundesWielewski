@@ -2,9 +2,9 @@
 
 <ul align="left">
   <li>🎉 20 anos</li>
-  <li>📍 Mafra - SC, Brasil</li>
+  <li>📍 Itaiópolis - SC, Brasil</li>
   <li>🎓 Bacharelando em Engenharia de Software</li>
-  <li>👨‍💻 Interesse em desenvolvimento web, Flutter, PHP, e Java - Full Stack</li>
+  <li>👨‍💻 Interesse em desenvolvimento web, desenvolvimento de apps, Flutter, PHP, e Java - Full Stack</li>
   <li>🚀 Apaixonado por aprendizado contínuo. Atualmente, estou cursando Engenharia de Software na Universidade do Contestado em Mafra, com previsão de conclusão em 2026.</li>
 </ul>
 
