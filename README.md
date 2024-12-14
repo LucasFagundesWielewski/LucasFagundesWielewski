@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:1e3c72&height=180&section=header&text=Olá,%20eu%20sou%20o%20Lucas!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:1e3c72&height=180&section=header&text=Hello,%20I%20am%20Lucas!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=6A11CB&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web+e+Mobile;PHP+-+Dart+-+Typescript;Engenheiro+de+Software" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=6A11CB&center=true&vCenter=true&width=435&lines=Web+and+Mobile+Developer;PHP+-+Dart+-+Typescript;Software+Engineer" alt="Typing Animation" />
 </p>
 
 ---
 
-### 📝 Sobre mim
+### 📝 About me
 <ul align="left">
-  <li>🎉 <b>Idade</b>: 20 anos</li>
-  <li>📍 <b>Localização</b>: Itaiópolis - SC, Brasil</li>
-  <li>🎓 <b>Formação</b>: Bacharelando em Engenharia de Software na Universidade do Contestado (UNC), previsão de conclusão em 2026</li>
-  <li>👨‍💻 <b>Interesses</b>: Desenvolvimento Web, Desenvolvimento de Apps, Flutter, PHP, e Java - Full Stack</li>
-  <li>🚀 <b>Motivação</b>: Apaixonado por aprendizado contínuo e tecnologia!</li>
+  <li>🎉 <b>Age</b>: 20 years</li>
+  <li>📍 <b>Location</b>: Itaiópolis - SC, Brazil</li>
+  <li>🎓 <b>Education</b>: Bachelor’s in Software Engineering at Universidade do Contestado (UNC), expected graduation in 2026</li>
+  <li>👨‍💻 <b>Interests</b>: Web Development, App Development, Flutter, PHP, and Java - Full Stack</li>
+  <li>🚀 <b>Motivation</b>: Passionate about continuous learning and technology!</li>
 </ul>
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Minhas habilidades
+### 🛠️ My skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,mysql,python,java,php,flutter,dart,c,vue,typescript#&theme=dark&perline=8" alt="Skills"/>
@@ -39,7 +39,7 @@
 
 ---
 
-### :phone: Contato
+### :phone: Contact
 <div align="center">
   <a href="https://www.instagram.com/lucas_wfagundes?igsh=YnU5mJvY2hoeHVj" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%236a11cb?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
