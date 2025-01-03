@@ -31,13 +31,6 @@
 
 ---
 
-## 🌟 Contributions Heatmap
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=LucasFagundesWielewski&theme=tokyonight&hide=prs,issues" alt="GitHub Contributions Heatmap"/>
-</div>
-
----
-
 ## 🛠️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
