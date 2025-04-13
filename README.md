@@ -9,24 +9,41 @@
 ---
 
 ## 📝 About Me
-<ul align="left">
-  <li>🎉 <b>Age</b>: 20 years</li>
-  <li>📍 <b>Location</b>: Mafra - SC, Brazil</li>
-  <li>🎓 <b>Education</b>: Bachelor’s in Software Engineering at Universidade do Contestado (UNC), expected graduation in 2026</li>
-  <li>👨‍💻 <b>Interests</b>: Web Development, Mobile Apps, Flutter, PHP, Java - Full Stack</li>
-  <li>🚀 <b>Motivation</b>: Passionate about continuous learning and creating impactful solutions!</li>
-</ul>
+<div align="left">
+  <table>
+    <tr>
+      <td>🎉 <b>Age</b>:</td>
+      <td>20 years</td>
+    </tr>
+    <tr>
+      <td>📍 <b>Location</b>:</td>
+      <td>Mafra - SC, Brazil</td>
+    </tr>
+    <tr>
+      <td>🎓 <b>Education</b>:</td>
+      <td>Bachelor’s in Software Engineering at Universidade do Contestado (UNC), expected graduation in 2026</td>
+    </tr>
+    <tr>
+      <td>👨‍💻 <b>Interests</b>:</td>
+      <td>Web Development, Mobile Apps, Flutter, PHP, Java - Full Stack</td>
+    </tr>
+    <tr>
+      <td>🚀 <b>Motivation</b>:</td>
+      <td>Passionate about continuous learning and creating impactful solutions!</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFagundesWielewski&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasFagundesWielewski&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -34,7 +51,7 @@
 ## 🛠️ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,mysql,python,java,php,flutter,dart,c,vue,typescript&theme=dark&perline=8" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,mysql,python,java,php,flutter,dart,c,vue,typescript&theme=light&perline=8" alt="Skills"/>
   </a>
 </p>
 
