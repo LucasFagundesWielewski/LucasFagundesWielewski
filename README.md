@@ -37,6 +37,19 @@
 
 ---
 
+## 🚀 Portfolio
+
+<div align="center">
+  <a href="https://lucasfagundeswielewski.github.io/portfolio/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/🌐%20Visit%20my%20Portfolio-7cf03d?style=for-the-badge&logo=google-chrome&logoColor=1f242d" 
+      alt="Portfolio Badge"
+    />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
