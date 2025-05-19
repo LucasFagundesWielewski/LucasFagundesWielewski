@@ -19,7 +19,7 @@
 🎂 **Age:** 20  
 📍 **Location:** Mafra - SC, Brazil  
 🎓 **Degree:** B.Sc. in Software Engineering @ Universidade do Contestado (UNC) — *Grad. 2026*  
-💡 **Interests:** Web & Mobile Development, Flutter, PHP, Java — Full Stack  
+💡 **Interests:** Web & Mobile Development, Flutter, React, PHP, Java — Full Stack  
 🚀 **Motivation:** I’m passionate about building impactful digital solutions and continuously improving my skills.
 
 ---
@@ -27,10 +27,10 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="[https://skillicons.dev"](https://skillicons.dev")>
     <img 
-      src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,php,dart,flutter,java,python,vue,git,github,mysql,c&theme=dark&perline=8" 
-      alt="Icons representing skills: VSCode, HTML, CSS, JavaScript, TypeScript, PHP, Dart, Flutter, Java, Python, Vue, Git, GitHub, MySQL, C" 
+      src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,php,dart,flutter,java,python,vue,git,github,mysql,firebase,react,aws,docker,laravel&theme=dark&perline=8" 
+      alt="Icons representing skills: VSCode, HTML, CSS, JavaScript, TypeScript, PHP, Dart, Flutter, Java, Python, Vue, Git, GitHub, MySQL, Firebase, React, AWS, Docker, Laravel" 
     />
   </a>
 </p>
