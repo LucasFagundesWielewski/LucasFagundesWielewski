@@ -17,7 +17,7 @@
 ## 👨‍💻 Sobre Mim
 
 🎂 **Idade:** 20 anos  
-📍 **Localização:** Mafra - SC, Brasil  
+📍 **Localização:** SC, Brasil  
 🎓 **Graduação:** Engenharia de Software @ Universidade do Contestado (UNC) — *Conclusão em 2026*  
 💡 **Interesses:** Desenvolvimento Web & Mobile, Flutter, React, PHP, Java — Full Stack  
 🚀 **Motivação:** Sou apaixonado por criar soluções digitais inovadoras e estou constantemente em busca de evolução profissional.
