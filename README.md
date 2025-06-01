@@ -14,23 +14,23 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-🎂 **Idade:** 20 anos  
-📍 **Localização:** SC, Brasil  
-🎓 **Graduação:** Engenharia de Software @ Universidade do Contestado (UNC) — *Conclusão em 2026*  
-💡 **Interesses:** Desenvolvimento Web & Mobile, Flutter, React, PHP, Java — Full Stack  
-🚀 **Motivação:** Sou apaixonado por criar soluções digitais inovadoras e estou constantemente em busca de evolução profissional.
+🎂 **Age:** 20 years  
+📍 **Location:** SC, Brazil  
+🎓 **Degree:** Software Engineering @ Universidade do Contestado (UNC) — *Expected to graduate in 2026*  
+💡 **Interests:** Web & Mobile Development, Flutter, React, PHP, Java — Full Stack  
+🚀 **Motivation:** I'm passionate about creating innovative digital solutions and always striving for professional growth.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
       src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,php,dart,flutter,java,python,vue,git,github,mysql,firebase,react,aws,docker,laravel&theme=dark&perline=8" 
-      alt="Ícones representando as habilidades: VSCode, HTML, CSS, JavaScript, TypeScript, PHP, Dart, Flutter, Java, Python, Vue, Git, GitHub, MySQL, Firebase, React, AWS, Docker, Laravel" 
+      alt="Icons representing skills: VSCode, HTML, CSS, JavaScript, TypeScript, PHP, Dart, Flutter, Java, Python, Vue, Git, GitHub, MySQL, Firebase, React, AWS, Docker, Laravel" 
     />
   </a>
 </p>
@@ -42,7 +42,7 @@
 <div align="center">
   <a href="https://lucasfagundeswielewski.github.io/portfolio/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/🌐%20Visite%20meu%20Portfolio-7cf03d?style=for-the-badge&logo=google-chrome&logoColor=1f242d" 
+      src="https://img.shields.io/badge/🌐%20Visit%20my%20Portfolio-7cf03d?style=for-the-badge&logo=google-chrome&logoColor=1f242d" 
       alt="Portfolio Badge"
     />
   </a>
@@ -50,18 +50,18 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" 
-    alt="Estatísticas do GitHub com commits, estrelas e repositórios"
+    alt="GitHub stats with commits, stars, and repositories"
   />
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=8&theme=chartreuse-dark" 
-    alt="Principais linguagens de programação utilizadas"
+    alt="Top used programming languages"
   />
 </div>
 
@@ -75,13 +75,13 @@
 <div align="center">
   <img 
     src="https://raw.githubusercontent.com/LucasFagundesWielewski/LucasFagundesWielewski/output/github-contribution-grid-snake.svg" 
-    alt="Animação de contribuição no GitHub"
+    alt="GitHub contribution animation"
   />
 </div>
 
 ---
 
-## 🌐 Contatos
+## 🌐 Contact
 
 <div align="center">
   <a href="https://www.instagram.com/lucas_wfagundes" target="_blank">
