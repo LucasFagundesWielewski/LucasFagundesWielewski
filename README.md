@@ -16,11 +16,11 @@
 
 ## About Me
 
-**Age:** 20 years  
-**Location:** SC, Brazil  
-**Degree:** Software Engineering @ Universidade do Contestado (UNC) | *Expected to graduate in 2026*  
-**Interests:** Web & Mobile Development, Flutter, React, PHP, Java, Python | Full Stack  
-**Motivation:** I'm passionate about creating innovative digital solutions and always striving for professional growth.
+* **Age:** 20 years  
+* **Location:** SC, Brazil  
+* **Degree:** Software Engineering @ Universidade do Contestado (UNC) | *Expected to graduate in 2026*  
+* **Interests:** Web & Mobile Development, Flutter, React, PHP, Java, Python | Full Stack  
+* **Motivation:** I'm passionate about creating innovative digital solutions and always striving for professional growth.
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🚀 Portfolio
+## Portfolio
 
 <div align="center">
   <a href="https://lucasfagundeswielewski.github.io/portfolio/" target="_blank">
