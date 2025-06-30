@@ -14,17 +14,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-🎂 **Age:** 20 years  
-📍 **Location:** SC, Brazil  
-🎓 **Degree:** Software Engineering @ Universidade do Contestado (UNC) | *Expected to graduate in 2026*  
-💡 **Interests:** Web & Mobile Development, Flutter, React, PHP, Java, Python | Full Stack  
-🚀 **Motivation:** I'm passionate about creating innovative digital solutions and always striving for professional growth.
+**Age:** 20 years  
+**Location:** SC, Brazil  
+**Degree:** Software Engineering @ Universidade do Contestado (UNC) | *Expected to graduate in 2026*  
+**Interests:** Web & Mobile Development, Flutter, React, PHP, Java, Python | Full Stack  
+**Motivation:** I'm passionate about creating innovative digital solutions and always striving for professional growth.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img 
@@ -81,7 +81,7 @@
 
 ---
 
-## 🌐 Contact
+## Contact
 
 <div align="center">
   <a href="https://www.instagram.com/lucas_wfagundes" target="_blank">
