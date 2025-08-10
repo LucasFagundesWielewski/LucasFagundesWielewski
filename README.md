@@ -19,7 +19,7 @@
 * **Age:** 20 years  
 * **Location:** SC, Brazil  
 * **Degree:** Bachelor's in Software Engineering – Universidade do Contestado (UNC) | Expected to graduate in 2026 | GPA: 9.37
-* **Interests:** Web & Mobile Development, Flutter, React, PHP, Java, Python | Full Stack  
+* **Interests:** Web & Mobile Development, Flutter, React, PHP, Java, Python, Docker | Full Stack  
 * **Motivation:** I'm passionate about creating innovative digital solutions and always striving for professional growth.
 
 ---
