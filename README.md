@@ -8,7 +8,7 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=7CF03D&center=true&vCenter=true&width=435&lines=Web+and+Mobile+Developer;PHP+-+Dart+-+Typescript;Software+Engineer" 
-    alt="Typing animation saying: Web and Mobile Developer, PHP - Dart - Typescript, Software Engineer" 
+    alt="Typing animation saying: Web and Mobile Developer, PHP - Dart - GO - Typescript, Software Engineer" 
   />
 </p>
 
