@@ -1,7 +1,7 @@
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:7cf03d,50:323946,100:1f242d&height=180&section=header&text=Hi,%20I'm%20Lucas!&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" 
-    alt="Animated header with text: Hi, I'm Lucas!"
+    alt="Animated header with text: Hi, I'm Lucas Fagundes!"
   />
 </div>
 
