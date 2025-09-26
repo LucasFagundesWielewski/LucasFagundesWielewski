@@ -29,8 +29,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,php,dart,flutter,java,python,vue,git,github,mysql,firebase,react,aws,docker,laravel&theme=dark&perline=8" 
-      alt="Icons representing skills: VSCode, HTML, CSS, JavaScript, TypeScript, PHP, Dart, Flutter, Java, Python, Vue, Git, GitHub, MySQL, Firebase, React, AWS, Docker, Laravel" 
+      src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,php,dart,flutter,java,python,vue,git,github,mysql,firebase,react,aws,docker,laravel,go&theme=dark&perline=8" 
+      alt="Icons representing skills: VSCode, HTML, CSS, JavaScript, TypeScript, PHP, Dart, Flutter, Java, Python, Vue, Git, GitHub, MySQL, Firebase, React, AWS, Docker, Laravel, GO" 
     />
   </a>
 </p>
