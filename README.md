@@ -18,7 +18,7 @@
 
 - **Software Engineering Student** at *Universidade do Contestado (UNC)* Expected graduation: **2026** | **GPA: 9.47** 
 - **Location:** Santa Catarina, Brazil  
-- **Interests:** Full-Stack Development, Flutter, React, PHP, Java, Python, Node.js,Ts, and Cloud Engineering  
+- **Interests:** Full-Stack Development, Flutter, React, PHP, Java, Python, Node.js, and Cloud Engineering  
 - **Motivation:** Passionate about creating innovative, efficient, and scalable digital solutions that have a real-world impact.
 - **Currently Learning:** Deepening knowledge in advanced backend architectures and mobile performance optimization.
 
