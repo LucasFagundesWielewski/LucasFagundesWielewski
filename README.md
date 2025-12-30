@@ -7,8 +7,8 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=7CF03D&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Web+and+Mobile+Specialist;PHP+%7C+Dart+%7C+TypeScript;Software+Engineer" 
-    alt="Typing animation: Full-Stack Developer | Web and Mobile Specialist | PHP, Dart, TypeScript"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=7CF03D&center=true&vCenter=true&width=480&lines=Python+Backend+Developer;AWS+Cloud+%26+Serverless;Hexagonal+Architecture+Expert;Software+Engineer" 
+    alt="Typing animation"
   />
 </p>
 
@@ -16,11 +16,9 @@
 
 ## About Me
 
-- **Software Engineering Student** at *Universidade do Contestado (UNC)* Expected graduation: **2026** | **GPA: 9.43** 
-- **Location:** Santa Catarina, Brazil  
-- **Interests:** Full-Stack Development, Flutter, React, PHP, Java, Python, Node.js, and Cloud Engineering  
-- **Motivation:** Passionate about creating innovative, efficient, and scalable digital solutions that have a real-world impact.
-- **Currently Learning:** Deepening knowledge in advanced backend architectures and mobile performance optimization.
+- **Software Engineering Student** at *UNC* | **GPA: 9.43** - **Core Focus:** Python (FastAPI, Flask), AWS Serverless, and Hexagonal Architecture.
+- **Experience:** Currently building scalable financial systems (CaaS) with high-performance Python backends.
+- **Languages:** Portuguese (Native), English (Advanced - C1).
 
 ---
 
