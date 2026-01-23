@@ -16,22 +16,37 @@
 
 ## About Me
 
-- **Software Engineering Student** at *UNC* | **GPA: 9.43** - **Core Focus:** Python (FastAPI, Flask), AWS Serverless, and Hexagonal Architecture.
-- **Experience:** Currently building scalable financial systems (CaaS) with high-performance Python backends.
-- **Languages:** Portuguese (Native), English (Advanced - C1).
+- **Backend Engineer** focused on high-scale financial architectures.
+- **Fintech Expert:** Currently managing a **Card-as-a-Service (CaaS)** infrastructure handling **R$10M+/month**.
+- **Specialties:** Python (FastAPI/AsyncIO), Hexagonal Architecture, and AWS Serverless.
+- **Commitment to Quality:** Deep experience with **TDD**, maintaining **95%+ unit test coverage** in mission-critical environments.
+- **Education:** Software Engineering Student at *UNC* (GPA: 9.43) | **C1 English** (Advanced).
 
 ---
 
-## Technical Skills
+## Technical Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,php,dart,flutter,java,python,vue,git,github,mysql,firebase,react,aws,docker,laravel,go&theme=dark&perline=8" 
-      alt="Skill icons: HTML, CSS, JS, TS, PHP, Dart, Flutter, Java, Python, React, Vue, AWS, Docker, and more" 
-    />
-  </a>
+### Backend & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
+
+### Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+### Engineering Principles
+* **Architecture:** Hexagonal (Ports & Adapters), Microservices, Event-Driven.
+* **Testing:** Pytest, Unit Testing, Integration Testing (TDD).
+* **Security:** PCI-DSS compliance mindset, OAuth2, JWT.
 
 ---
 
