@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=7CF03D&center=true&vCenter=true&width=480&lines=Python+Backend+Developer;AWS+Cloud+%26+Serverless;Hexagonal+Architecture+Expert;Software+Engineer" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=7CF03D&center=true&vCenter=true&width=480&lines=Python+Backend+Developer;AWS+Cloud+%26+Serverless;Hexagonal+Architecture+Expert;Cyber+Security+%26+XAI+Researcher" 
     alt="Typing animation"
   />
 </p>
@@ -16,11 +16,11 @@
 
 ## About Me
 
-- **Backend Engineer** focused on high-scale financial architectures.
-- **Fintech Expert:** Currently managing a **Card-as-a-Service (CaaS)** infrastructure handling **R$10M+/month**.
-- **Specialties:** Python (FastAPI/AsyncIO), Hexagonal Architecture, and AWS Serverless.
-- **Commitment to Quality:** Deep experience with **TDD**, maintaining **95%+ unit test coverage** in mission-critical environments.
-- **Education:** Software Engineering Student at *UNC* (GPA: 9.43) | **C1 English** (Advanced).
+- **Backend Engineer** specializing in scalable architectures and mission-critical systems.
+- **Architectural Focus:** Deep expertise in **Hexagonal Architecture (Ports & Adapters)** and Clean Code.
+- **Cyber Security Researcher:** Currently developing threat diagnosis systems using **Explainable AI (XAI)** and SHAP engines.
+- **Commitment to Quality:** Strong advocate for **TDD**, maintaining **95%+ unit test coverage** in complex environments.
+- **Education:** Software Engineering Student at *UNC* | **C1 English** (Advanced).
 
 ---
 
@@ -30,7 +30,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
@@ -44,9 +43,9 @@
 </p>
 
 ### Engineering Principles
-* **Architecture:** Hexagonal (Ports & Adapters), Microservices, Event-Driven.
+* **Architecture:** Hexagonal, Microservices, Event-Driven Architecture.
+* **Security & IA:** XAI (Explainable AI), SHAP, OAuth2, JWT, Network Security.
 * **Testing:** Pytest, Unit Testing, Integration Testing (TDD).
-* **Security:** PCI-DSS compliance mindset, OAuth2, JWT.
 
 ---
 
@@ -69,12 +68,12 @@
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=LucasFagundesWielewski&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" 
-    alt="GitHub stats showing commits, stars, and repositories"
+    alt="GitHub stats"
   />
   <img 
     height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFagundesWielewski&layout=compact&langs_count=8&theme=chartreuse-dark" 
-    alt="Top languages used"
+    alt="Top languages"
   />
 </div>
 
