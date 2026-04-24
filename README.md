@@ -42,11 +42,6 @@
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-### Engineering Principles
-* **Architecture:** Hexagonal, Microservices, Event-Driven Architecture.
-* **Security & IA:** XAI (Explainable AI), SHAP, OAuth2, JWT, Network Security.
-* **Testing:** Pytest, Unit Testing, Integration Testing (TDD).
-
 ---
 
 ## Portfolio
