@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=7CF03D&center=true&vCenter=true&width=480&lines=Python+Backend+Developer;AWS+Cloud+%26+Serverless;Hexagonal+Architecture+Expert;Cyber+Security+%26+XAI+Researcher" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=7CF03D&center=true&vCenter=true&width=480&lines=Python+Backend+Developer;AWS+Cloud+%26+Serverless;Salesforce+Developer;Hexagonal+Architecture+Expert;Cyber+Security+%26+XAI+Researcher" 
     alt="Typing animation"
   />
 </p>
@@ -17,6 +17,7 @@
 ## About Me
 
 - **Backend Engineer** specializing in scalable architectures and mission-critical systems.
+- **Salesforce Developer:** Experience in customizing and extending CRM capabilities to align with complex business logic.
 - **Architectural Focus:** Deep expertise in **Hexagonal Architecture (Ports & Adapters)** and Clean Code.
 - **Cyber Security Researcher:** Currently developing threat diagnosis systems using **Explainable AI (XAI)** and SHAP engines.
 - **Commitment to Quality:** Strong advocate for **TDD**, maintaining **95%+ unit test coverage** in complex environments.
@@ -30,6 +31,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
