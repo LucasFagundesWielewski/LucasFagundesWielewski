@@ -53,15 +53,15 @@
 ## 🌌 Portfolio
 
 <div align="center">
-  <a href="https://lucasfagundeswielewski.github.io/portfolio/" target="_blank">
+  <a href="https://lucasfagundeswielewski.github.io/" target="_blank">
     <img
       width="100%"
-      src="https://lucasfagundeswielewski.github.io/portfolio/images/og-image.png"
+      src="https://lucasfagundeswielewski.github.io/images/og-image.png"
       alt="Lucas Fagundes portfolio: an interactive 3D solar system"
     />
   </a>
   <br /><br />
-  <a href="https://lucasfagundeswielewski.github.io/portfolio/" target="_blank">
+  <a href="https://lucasfagundeswielewski.github.io/" target="_blank">
     <img
       src="https://img.shields.io/badge/Explore%20the%20Solar%20System-FFB24A?style=for-the-badge&logo=rocket&logoColor=04050A"
       alt="Explore the portfolio"
